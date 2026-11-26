@@ -1,0 +1,25 @@
+TUULI DESIGN – EN / DE, INSTAGRAM, NUOTTIPAINIKE – MAGNESUS-LINNUNLAULU
+
+1) Pura ZIP. Avaa index.html selaimessa tai julkaise kaikki tiedostot GitHub Pagesissa.
+2) Sivustolla on kolme pääsivua englanniksi ja kolme saksaksi de/-kansiossa.
+3) Linnunlaulu: sivun alaoikealla oleva nuottipainike aloittaa/pysäyttää toiston. Soiva painike näyttää taukokuviokkeen. Äänitiedosto on assets/forest-birds-magnesus.mp3. Se on muunnettu lähettämästäsi Magnesuksen WAV-tallenteesta verkkokäyttöä varten.
+   Tallenne: Magnesus, "Forest birds - ambient seamless loop" (Freesound #723913).
+   Lähde: https://freesound.org/people/Magnesus/sounds/723913/
+   Lisenssi: CC0. Tekijän maininta ei ole pakollista mutta hyvä käytäntö.
+   Automaattista käynnistymistä yritetään, mutta selain voi estää äänen ennen käyttäjän klikkausta. Paina tällöin nuottipainiketta.
+4) Instagram-osion kuvat ovat sivuston omia havainnekuvia, EIVÄT oikeita @tuuli.design-julkaisuja. Kuvat linkittävät oikeaan profiiliin. Automaattinen kuvavirta vaatii erillisen palvelun upotuskoodin.
+5) Julkaisu GitHub Pagesissa: lataa ZIP:n sisältö repositoryn juureen kansiorakenteineen. Settings > Pages > Deploy from a branch > main > /(root). Julkaisun jälkeen tarkista, että ääni toimii nuottipainikkeesta.
+6) Älä poista assets/-kansiota: se sisältää äänitiedoston ja kuvat.
+
+Tässä paketissa ei ole demoääniraitaa eikä API-avaimia tai salasanoja.
+
+
+OMAT VALOKUVAT (päivitetty 26.11.2026)
+- Etusivun Instagram-inspiraatio-osiossa on nyt kuusi käyttäjän itse ottamaa valokuvaa.
+- Portfolio-sivulle lisättiin Real moments at home / Echte Wohnmomente -galleria (9 kuvaa).
+- Services / Leistungen -sivulle lisättiin kaksi tunnelmakuvaa.
+- Käytetyt kuvat ovat kansiossa assets/own-photos/ WebP-muodossa ja skaalautuvat mobiiliin.
+- Kuvat ovat paikallisia, valikoituja kuvia. Ne eivät päivity automaattisesti Instagramin uusista julkaisuista. Instagram-profiiliin johtavat linkit toimivat erikseen.
+- Kuvat eivät ole merkattuja asiakastöiksi.
+- Magnesuksen alkuperäinen linnunlaulu ja nuottipainike on säilytetty.
+- Kuvasisältöä voi myöhemmin täydentää aidolla automaattisella Instagram-upotuksella, mutta tällöin pitää yhdistää tili feed-palveluun.
